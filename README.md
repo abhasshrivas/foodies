@@ -1,1 +1,1 @@
-# Foodies-Website.
+# Foodies-Website. fully responsive.
